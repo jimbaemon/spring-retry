@@ -1,4 +1,4 @@
-package com.jimbae.base.config;
+package com.jimbae.retry.config;
 
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeEach;
